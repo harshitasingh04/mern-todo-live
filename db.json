@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "todo": "hello what are u doing",
+      "label": "uncategorized",
+      "id": "4cbdde67",
+      "date": "9/15/2023, 10:32:51 PM",
+      "isDone": false
+    },
+    {
+      "todo": "harshita",
+      "label": "hello",
+      "id": "7aba3c54",
+      "date": "9/15/2023, 10:33:25 PM",
+      "isDone": false
+    }
+  ],
+  "labels": [
+    {
+      "label": "uncategorized",
+      "count": 1,
+      "id": "17daee68"
+    },
+    {
+      "label": "hello",
+      "count": 1,
+      "id": "08614a9f"
+    }
+  ]
+}

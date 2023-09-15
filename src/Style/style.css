@@ -1,0 +1,23 @@
+#labels-section {
+  height: 400px;
+  background-color: lightyellow; /* Change the background color to light yellow */
+  border: 1px solid #ccc; /* Add a border for a more defined look */
+  padding: 10px; /* Add some padding for spacing */
+  border-radius: 5px; /* Round the corners slightly */
+  transition: background-color 0.3s; /* Add a smooth transition effect */
+}
+
+#todos-list {
+  height: 400px;
+  background-color: lightyellow; /* Change the background color to light yellow */
+  border: 1px solid #ccc; /* Add a border for a more defined look */
+  padding: 10px; /* Add some padding for spacing */
+  border-radius: 5px; /* Round the corners slightly */
+  transition: background-color 0.3s; /* Add a smooth transition effect */
+}
+
+#labels-section:hover,
+#todos-list:hover {
+  cursor: pointer;
+  background-color: lemonchiffon; /* Change the background color to a lighter shade when hovered */
+}
